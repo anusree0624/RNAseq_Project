@@ -1,0 +1,35 @@
+*.Zone.Identifier# Windows metadata
+*.Zone.Identifier
+
+# SRA download files
+SRR_Acc_List
+SraRunTable
+
+# Optional docs
+docs/# Raw sequencing data
+raw_fastq/
+docs/
+
+# Alignment files
+alignment/
+*.bam
+*.bai
+*.sam
+
+# Genome files
+genome/
+*.fa
+*.fasta
+*.fai
+*.gtf
+*.gff
+
+# SRA toolkit
+sratoolkit*
+
+# R session files
+.RData
+.Rhistory
+
+# Windows metadata
+*.Zone.Identifier

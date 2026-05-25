@@ -1,0 +1,11 @@
+sample condition
+SRR38588400 control
+SRR38588403 control
+SRR38588406 control
+SRR38588409 control
+SRR38588412 treated
+SRR38588415 treated
+SRR38588418 treated
+SRR38588421 treated
+SRR38588424 treated
+
